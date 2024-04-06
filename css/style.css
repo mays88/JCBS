@@ -9,10 +9,14 @@ body {
 }
 
 .content-wrapper {
-    background-color: red;
     width: 100rem;
-    height: 100vh;
-    display: grid;
+    justify-content: center;
     margin: auto;
     border: 5px solid navy;
+}
+
+.card-body {
+    border: 5px solid black;
+
+    height: 500px;
 }
