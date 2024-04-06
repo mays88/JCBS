@@ -20,3 +20,7 @@ body {
 
     height: 500px;
 }
+
+.card-header-div {
+    background-color: blue;
+}
